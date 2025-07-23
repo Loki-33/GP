@@ -6,6 +6,6 @@ connects with Gaussian Process
 ## Tools used
 - Python
 - Numpy
-_ Matplotlib
+- Matplotlib
 
 
